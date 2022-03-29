@@ -21,7 +21,7 @@ I'm planning to learn:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAlmeidaJr&hide=TeX&layout=compact)
 
 <br>Visit my personal resume:
-![Resume](https://luizalmeidajr.github.io/curriculo/)
+[Resume](https://luizalmeidajr.github.io/curriculo/)
 
 
 
