@@ -1,6 +1,6 @@
-<img align="right" height="200" style="border-radius: 100%" src="https://octodex.github.com/images/codercat.jpg" alt="Codercat">
+<img align="right" height="250" style="border-radius: 100%" src="https://octodex.github.com/images/codercat.jpg" alt="Codercat">
 
-<h1 align="left">Hi, I'm Luiz Almeida Jr <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
+<h1 align="left">Hi, I'm Luiz Almeida Jr 👋</h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LuizAlmeidaJr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-almeida-jr-643789224/)
